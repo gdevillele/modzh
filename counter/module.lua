@@ -2,6 +2,9 @@
 -- Cubzh Module : github.com/gdevillele/modzh/counter
 --
 
+-- 1 KVS for totals (overall, per day)
+-- 1 KVS per world+user
+
 local module = {}
 
 local initForClient = function()
